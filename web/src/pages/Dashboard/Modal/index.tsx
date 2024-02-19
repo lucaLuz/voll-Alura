@@ -40,6 +40,7 @@ const BotaoCustomizado = styled(Botao)`
     width: 50%;
     display: block;
     margin: 0 auto;
+    cursor: pointer;
 `
 
 const ContainerEndereco = styled.div`
